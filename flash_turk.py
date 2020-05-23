@@ -1,4 +1,5 @@
 from sqlalchemy import create_engine
+import logging
 import pandas as pd
 import random
 import os
@@ -8,6 +9,14 @@ USER = os.environ.get('DB_USER')
 PASS = os.environ.get('DB_PASS')
 engine = create_engine(
     f'postgresql://{USER}:{PASS}@localhost:5432/turk_eng_dict')
+
+# LOGGING SETTINGS
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s:%(message)s')
+file_handler = logging.FileHandler('lesson_results.log')
+file_handler.setFormatter(formatter)
+logger.addHandler(file_handler)
 
 
 # MAIN PROGRAM
@@ -23,7 +32,7 @@ class flash_turk():
 
         # GROUP DATA BY TYPE
         self.data_groups = self.df.groupby('type')
-        self.group_type = ['noun', 'verb', 'adjective', 'adverb', 'phrase']
+        self.group_type = ['noun', 'verb', 'adjective', 'adverb', 'phrase', 'test']
 
         self.welcome_prompt()
 
@@ -67,6 +76,7 @@ Types of words:
     # SELECT A PACKET (For list greater than 100)
     def packet_picker(self):
         if int(self.choice) > 2:
+            self.p_choice = None
             self.packet = \
                 self.data_groups.groups[self.group_type[self.choice]]
             self.list_maker()
@@ -202,6 +212,12 @@ Results:
         # INCORRECT WORDS
         print(''.join(
             "\n{0}".format(i[0] + " = " + i[1]) for i in self.incorrect))
+
+        # LOG RESULTS
+        logger.info(
+            f' Group: {self.group_type[self.choice]}, \
+Packet: {self.p_choice}, \
+Incorrect: {len(self.incorrect)}')
 
         # EXIT OPTIONS
         print('''
