@@ -38,7 +38,8 @@ class flash_turk():
 
     # ENTRY PROMPT
     def welcome_prompt(self):
-        print('\nWelcome!')
+        self.name = input("What is your name? ")
+        print(f'\nWelcome {self.name}!')
         print(f'''
 Types of words:
     0. Nouns ({len(self.data_groups.groups[self.group_type[0]])} words)
@@ -215,7 +216,7 @@ Results:
 
         # LOG RESULTS
         logger.info(
-            f' Group: {self.group_type[self.choice]}, \
+            f' Name: {self.name}, Group: {self.group_type[self.choice]}, \
 Packet: {self.p_choice}, \
 Incorrect: {len(self.incorrect)}')
 
