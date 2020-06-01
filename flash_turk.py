@@ -22,11 +22,6 @@ logger.addHandler(file_handler)
 # MAIN PROGRAM
 class flash_turk():
     def __init__(self):
-
-        self.remains = {}  # FOR TURKISH:ENGLISH DICTIONARY
-        self.correct = []   # FOR CORRECT TOTALS
-        self.incorrect = []  # FOR INCORRECT TOTALS
-
         # READ IN DATA
         self.df = pd.read_sql('vocab', engine, index_col='id')
 
@@ -134,6 +129,11 @@ Packets:
 
     # BUILD TURKISH:ENGLISH DICTIONARY
     def list_maker(self):
+
+        self.remains = {}  # FOR TURKISH:ENGLISH DICTIONARY
+        self.correct = []   # FOR CORRECT TOTALS
+        self.incorrect = []  # FOR INCORRECT TOTALS
+
         for i in self.packet:
             self.remains[self.df.loc[i]["turkish"]] = self.df.loc[i]["english"]
         self.next()
