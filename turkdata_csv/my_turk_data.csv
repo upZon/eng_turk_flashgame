@@ -1,774 +1,1191 @@
-id,type,turkish,english,category
-0,noun,zincir,chain,material
-1,noun,kaya,rock,nature
-2,verb,yanıtlamak,to respond,people
-3,verb,kaçmak,to escape,environment
-4,verb,merak etmek,to wonder,abstract
-5,verb,ayırtmak,"to book
-(to reserve)",travel
-6,verb,telefona bakmak,to answer the phone,technology
-7,noun,komşuluk,neighborhood,location
-8,verb,kıskanmak,to be jealous,people
-9,verb,gülümsemek,to smile,people
-10,adjective,utangaç,shy,people
-11,noun,gezi,"trip
-(cruise)",travel
-12,adjective,aptal,"fool
-(stupid)",people
-13,adjective,aptalca,foolish,people
-14,verb,atmak,to throw,people
-15,adjective,fena,bad,environment
-16,noun,yağ,oil,material
-17,noun,tasarım,design,art
-18,noun,kuaför,hairdresser,career
-19,noun,tane,"piece
-(item, each)",material
-20,noun,cevap,answer,people
-21,verb,cevap vermek,to answer,people
-22,noun,krem,cream,food
-23,noun,bakır eşyalar,copper items,material
-24,noun,saygı,respect,abstract
-25,adjective,terbiyeli,"manner
-(well behaved)",abstract
-26,verb,terbiye,"training
-(to be behaved)",people
-27,adjective,nazik,"kind
-(gentle)",people
-28,adjective,bile,"even
-(comparing with)",comparison
-29,noun,akciğer,lung,body
-30,noun,kayısı,apricot,food
-31,noun,plaj,beach,location
-32,adjective,dağınık,messy,environment
-33,noun,eş,spouse,people
-34,verb,binmek,to ride,travel
-35,verb,dolaşmak,"to wandar
-(roam)",travel
-36,noun,sabır,patience,abstract
-37,verb,takip etmek,to follow,travel
-38,verb,ısınmak,to warm up,environment
-39,adjective,(bir) sonraki,(the) next,abstract
-40,adverb,beraber,together,people
-41,noun,toz,dust,nature
-42,noun,umut,hope,abstract
-43,adjective,gergin,"tense
-(rigid)",feeling
-44,adjective,geçen,"last
-(previous)",abstract
-45,noun,gizem,mystery,abstract
-46,adjective,mevcut,"available
-(objects)",abstract
-47,adjective,bayat,"stale
-(not fresh)",environment
-48,adjective,aç,hungry,food
-49,noun,açlık,hunger,food
-50,noun,sahte,fake,abstract
-51,adjective,hoş,nice,abstract
-52,adjective,zengin,rich,abstract
-53,verb,kandırmak,"to trick
-(deceive)",people
-54,noun,bütün,whole,abstract
-55,verb,yaşamak,to live,environment
-56,verb,ölmek,to die,body
-57,verb,yorulmak,to be/get tired,people
-58,noun,bilek,wrist,body
-59,noun,böbrek,kidney,body
-60,noun,testis,testacles,body
-61,noun,vücut,body,body
-62,noun,yumurtalık,ovary,body
-63,adjective,güçsüz,"weak
-(powerless)",feeling
-64,noun,güç,power,abstract
-65,adjective,güçlü,powerful,feeling
-66,adjective,kusursuz,"perfect
-(flawless)",abstract
-67,noun,kusur,flaw,abstract
-68,adjective,kusurlu,flawed,abstract
-69,verb,taşımak,"to carry
-(to move, to transport)",travel
-70,noun,kelebek,butterfly,animal
-71,noun,maksimum,maximum,comparison
-72,verb,yuvarlanmak,to roll,travel
-73,verb,kâbus görmek,to have a nightmare,people
-74,verb,endişelenmek,to fret,feeling
-75,verb,tasalanmak,to worry,feeling
-76,verb,beğenmek,to like,abstract
-77,adjective,ince,"thin
-(objects)",material
-78,noun,parça,piece,comparison
-79,noun,basar,flood,nature
-80,adjective,anlayış,understanding,abstract
-81,noun,bisiklet,bicycle,travel
-82,verb,varmak,to arrive,travel
-83,adjective,yaşlı,old,abstract
-84,noun,el işleri,handmade items,material
-85,noun,komodin,bedside table,home
-86,noun,altın,"gold
-(golden)",material
-87,noun,hiç bir şey,nothing,material
-88,verb,uğramak,to pop in,travel
-89,verb,yakmak,to burn,people
-90,verb,korumak,to protect,people
-91,verb,oturmak,to reside,travel
-92,noun,devlet,"state
-(branch of government)",politics
-93,noun,parti,party,environment
-94,noun,daire,apartment,location
-95,noun,lezzet,flavor,food
-96,adjective,lezzetli,flavorful,food
-97,adjective,lezzetsiz,"tastless
-(flavorless)",food
-98,noun,ipucu,hint,people
-99,noun,indir,download,technology
-100,noun,içeride,inside,location
-101,noun,inanç,"belief
-(faith)",religion
-102,adjective,iyimser,optimistic,feeling
-103,adjective,en çok,at most,comparison
-104,noun,erik,plum,food
-105,adjective,bitmek,"to be done
-(to end)",comparison
-106,noun,ibadet,religious practice,religion
-107,verb,götürmek,to take,travel
-108,noun,hayal,imagination,abstract
-109,noun,mağaza,department store,location
-110,noun,iş,"business
-(work)",location
-111,noun,dergi,magazine,material
-112,adjective,yaygın,common,comparison
-113,noun,hırsız,thief,career
-114,noun,plak,"record
-(vinyl)",material
-115,noun,pikap,record player,material
-116,adjective,hakkında,"about
-(regarding, concerning)",people
-117,noun,büfe,"buffet
-(food stand, kiosk)",food
-118,phrase,üstü kalsın,keep the change,trade
-119,noun,paspas,doormat,home
-120,verb,kazanmak,to win,abstract
-121,adjective,izinli,on leave,career
-122,noun,izin,"permission
-(authorize)",people
-123,adjective,izinsiz,unauthorized,people
-124,verb,tapmak,to worship,religion
-125,noun,tepe,hill,nature
-126,phrase,ya sen?,what about you?,people
-127,noun,odun,firewood,material
-128,noun,çamaşır makinesi,"washing machine
-(laundry)",home
-129,phrase,Acaba...,I wonder...,abstract
-130,adjective,keskin,sharp,material
-131,noun,gaye,purpose,abstract
-132,noun,amaç,goal,abstract
-133,adjective,çekici,"attractive
-(charming)",abstract
-134,adjective,basit,simple,comparison
-135,phrase,kim...?,who...?,people
-136,noun,saat,"watch
-(hour, o'clock)",time
-137,adjective,ileride,up ahead,travel
-138,noun,insan,"human
-(person)",people
-139,noun,oyun,game,sports
-140,noun,bekle,expect,abstract
-141,adjective,öbür,the other,comparison
-142,verb,sıkmak,to tighten,comparison
-143,verb,sıkmak için,to squeeze,comparison
-144,noun,deri,leather,material
-145,verb,kanıksamak,getting used to,comparison
-146,verb,karşılaştırmak,to compare,comparison
-147,verb,bakım,"to look after
-(to care for)",people
-148,verb,kakalamak,to poop,people
-149,noun,havuç,carrot,food
-150,noun,savaş,war,politics
-151,verb,kaygılanmak,to be anxious,feeling
-152,adjective,çeşıt,"type of
-(kind of)",material
-153,adjective,çeşitli,various,material
-154,noun,asgari,minimum,comparison
-155,noun,dışkı,"poop
-(feces, stool)",material
-156,adjective,en fazla,"utmost
-(of the highest)",comparison
-157,noun,teyze,aunt,people
-158,verb,istemek,to want,abstract
-159,noun,salatalık,cucumber,food
-160,adjective,üst,top,comparison
-161,noun,orman,"forest
-(woods, jungle)",nature
-162,noun,barış,peace,abstract
-163,noun,takı,jewelry,material
-164,noun,insanlar,people,people
-165,noun,başbakan,prime minister,politics
-166,verb,seyahat etmek,to travel,travel
-167,noun,dal,branch,nature
-168,noun,sivrisinek,"mosquito
-(gnat)",animal
-169,noun,bulut,cloud,nature
-170,adjective,sessiz,quiet,people
-171,adjective,ses,"vocal
-(voice)",people
-172,noun,tapınak,"temple
-(place to worship)",religion
-173,phrase,iyi o zaman...,well then...,comparison
-174,verb,ayakta durmak,to stand,comparison
-175,noun,tilki,fox,animal
-176,adjective,uykulu,"sleepy
-(drowsy)",feeling
-177,noun,toplantı,meeting,people
-178,noun,şey,"thing
-(stuff)",material
-179,noun,doğum,birth,people
-180,noun,doğmuş,born,people
-181,verb,sahip olmak,to own,abstract
-182,noun,silâh,weapon,politics
-183,noun,patron,boss,career
-184,adjective,yüksek,loud,people
-185,noun,hayvan,animal,animal
-186,adjective,hızlı,fast,comparison
-187,noun,ölü,dead,nature
-188,adjective,ölümcül,"deadly
-(fatal)",nature
-189,verb,yanmak,to be burned,comparison
-190,noun,yanık,burnt,comparison
-191,noun,değer,value,comparison
-192,adjective,degerli,valuable,comparison
-193,adjective,değersiz,"worthless
-(valueless)",comparison
-194,adjective,asabi,irritable,feeling
-195,noun,devrim,revolution,politics
-196,noun,sehpa,coffee table,home
-197,verb,şikayet etmek,to complain,comparison
-198,phrase,peki,"well then
-(all right)",people
-199,noun,fener,lighthouse,location
-200,noun,el feneri,flashlight,material
-201,verb,arzu etmek,to wish,abstract
-202,adjective,ağır,heavy,comparison
-203,verb,gürültü yapmak,to make noise,people
-204,adjective,gürültülü,noisy,comparison
-205,noun,köşe,corner,location
-206,adjective,duygusal,emotional,feeling
-207,noun,sıfır,zero,numbers
-208,verb,nefes almak,to breathe,body
-209,noun,mürekkep,ink,material
-210,adjective,korkutucu,scary,abstract
-211,noun,aurupa,europe,location
-212,adjective,müttefik,allied,politics
-213,adjective, sakar,clumsy,abstract
-214,adjective,karanlık,dark,environment
-215,noun,takım,"team
-(sports)",sports
-216,noun,bağırsak,"bowel
-(intestine, guts)",body
-217,adjective,ciddi,serious,abstract
-218,adjective,kötümser,pessimistic,abstract
-219,verb,emmek,to suck,people
-220,noun,sıkışmış,stuck,environment
-221,noun,köprü,bridge,location
-222,noun,karaciğer,liver,body
-223,noun,siyaset,politics,politics
-224,noun,kask,helmet,people
-225,noun,istasyon,station,location
-226,noun,soru,question,people
-227,verb,basmak,to press,people
-228,verb,üstüne basmak,"to step on
-(to tread)",travel
-229,noun,kas,muscle,body
-230,adverb,bu sırada,meanwhile,people
-231,adjective,genç,young,body
-232,noun,taraf,"way
-(side)",travel
-233,noun,dil,"tongue
-(language)",body
-234,noun,bakır,copper,material
-235,noun,kitaplık,bookcase,home
-236,noun,suç,crime,politics
-237,adverb,artık,"anymore
-(no longer)",people
-238,noun,bal arısı,honeybee,animal
-239,verb,taklit etmek,to imitate,people
-240,verb,kontrol etmek,to control,abstract
-241,adjective,taze,fresh,food
-242,noun,grip,flu,nature
-243,adverb,etrafında,"around
-(in vicinity)",location
-244,adjective,kaygan,slippery,material
-245,verb,kaymak,to slip,travel
-246,noun,grafiker,graphic designer,career
-247,adjective,parlak,bright,environment
-248,noun,incir,fig,food
-249,verb,doymak,to be full,feeling
-250,verb,osurmak,to fart,body
-251,adjective,nadir,rare,material
-252,adverb,nadiren,rarely,people
-253,adverb,seyrek,seldom,abstract
-254,adjective,çiftçi,farmer,career
-255,noun,çiftlik,farm,location
-256,adjective,susamış,thirsty,feeling
-257,noun,mühendis,engineer,career
-258,noun,motor,engine,travel
-259,phrase,bu sefer...,this time...,people
-260,noun,sanatçı,artist,career
-261,noun,sanat,art,art
-262,verb,kanamak,to bleed,body
-263,noun,konuşma,conversation,people
-264,noun,giriş,"entrance
-(entry)",travel
-265,adjective,en az,least,comparison
-266,phrase,en azından,at least,comparison
-267,adjective,defo,defect,material
-268,phrase,olur,"all right
-(approval)",people
-269,noun,yetenek,"talent
-(skill)",people
-270,adjective,yetenekli,skillful,people
-271,adjective,yeteneksiz,untalented,people
-272,noun,köle,slave,people
-273,noun,kölelik,slavery,politics
-274,adjective,tuzlu,salty,food
-275,noun,sorun,"problem
-(issue, trouble)",people
-276,adjective,zeki,intelligent,comparison
-277,verb,katılmak,to join,travel
-278,noun, çöl,desert,location
-279,noun,rapor,report,people
-280,noun,balta,axe,tool
-281,adjective,şaşırtıcı,surprising,people
-282,adjective,kocaman,huge,comparison
-283,verb,demek,to say,people
-284,noun,doğayı,nature,location
-285,adjective,saçma,"absurd
-(silly)",comparison
-286,noun,ses,"voice
-(sound)",body
-287,noun,muhasebeci,accountant,career
-288,noun,pençe,claw,animal
-289,noun,pati,paw,animal
-290,noun,kişi,"person
-(guy/girl)",people
-291,verb,spor yapmak,to do sport,sports
-292,verb,görünmek,to seem,comparison
-293,verb,toplamak,"to gather
-(to collect)",people
-294,phrase,ertesi,"the following
-(after)",people
-295,noun,yanlış,wrong,abstract
-296,noun,askeri,military,politics
-297,noun,ordu,army,politics
-298,noun,ün,fame,people
-299,adjective,ünlü,famous,comparison
-300,noun,adalet,justice,abstract
-301,adjective,adaletsiz,unjust,comparison
-302,noun,bilgi,information,tool
-303,verb,kiralamak,to rent,location
-304,verb,sallanmak,to rock,nature
-305,noun,baharat,spice,food
-306,adjective,baharatlı,spicy,food
-307,adjective,baharatsız,"bland
-(unseasoned)",food
-308,noun,pürüz,rough,material
-309,adjective,pürüzlü,rough,comparison
-310,adjective,pürüzsüz,smooth,comparison
-311,verb,uzatmak,to stretch,body
-312,noun,reklam,advertisement,career
-313,noun,örümcek,spider,animal
-314,noun,somon,salmon,animal
-315,noun,duman,smoke,nature
-316,adjective,dumanlı,smokey,nature
-317,adjective,dumansız,smokeless,nature
-318,verb,vidalamak,to screw,tool
-319,noun,hükümet,government,politics
-320,noun,cehennem,hell,religion
-321,noun,gerek,need,abstract
-322,adjective,gerekli,needful,comparison
-323,adjective,gereksiz,needless,comparison
-324,verb,girmek,to enter,travel
-325,adjective,çıplak,"naked
-(nude)",body
-326,noun,delik,hole,nature
-327,noun,yaş,age,people
-328,verb,affetmek,to forgive,people
-329,noun,üçlü,triple,numbers
-330,noun,füze,missle,politics
-331,verb,asmak,to hang,comparison
-332,noun,kilit,lock,home
-333,verb,kilitlemek,to lock,home
-334,noun,reklam ajansı,advertising agency,career
-335,noun,hediyelike eşya,souvenir,travel
-336,noun,hindi,"turkey
-(bird)",animal
-337,noun,verim,"efficiency
-(yield/output)",abstract
-338,adjective,verimli,"productive
-(efficient)",abstract
-339,adjective,verimsiz,"unproductive
-(inefficient)",abstract
-340,noun,bomba,bomb,politics
-341,noun,efsane,"myth
-(legend)",abstract
-342,noun,roket,rocket,politics
-343,noun,özel,"private
-(special)",abstract
-344,noun,dolu,full,comparison
-345,adjective,saf,naive,comparison
-346,noun,oda,room,home
-347,noun,oy,vote,politics
-348,noun,zarar,harm,nature
-349,adjective,zararlı,harmful,comparison
-350,adjective,zararsız,harmless,comparison
-351,verb,kirletmek,"to make dirty
-(to pollute)",environment
-352,verb,gömmek,to bury,nature
-353,adjective,zalim,cruel,people
-354,noun,bez,"cloth
-(rag)",home
-355,adjective,patlamak,"to explode
-(burst, erupt)",nature
-356,adjective,çirkin,ugly,abstract
-357,noun,yol,path,travel
-358,noun,kara,"land
-(soil)",environment
-359,verb,çıkıvermek,"to hop out of
-(to dart)",travel
-360,noun,ürün,product,material
-361,adjective,müsait,"available
-(people)",people
-362,noun,uç,"point
-(tip/edge)",location
-363,noun,pil,battery,material
-364,noun,fırsat,opportunity,people
-365,verb,canım çekiyor,to crave for,abstract
-366,noun,çift,"double
-(pair)",numbers
-367,adjective,çift sayı,even number,numbers
-368,noun,çivi,nail,tool
-369,noun,tiyatro,theatre,location
-370,verb,sohbet etmek,to chat,people
-371,noun,oğul,son,people
-372,noun,kaplan,tiger,animal
-373,noun,asya,asia,location
-374,phrase,o kadar,that's all,people
-375,verb,düşmek,to fall,people
-376,adjective,boş,empty,comparison
-377,verb,hissetmek,to feel,feeling
-378,verb,ölçmek,to measure,comparison
-379,adverb,ya,either,people
-380,adjective,doğru,true,comparison
-381,noun,bulaşık makinesi,dishwasher,home
-382,adverb,henüz,yet,people
-383,noun,müdür,manager,career
-384,verb,kalmak,to stay,travel
-385,adjective,düzenli,tidy,comparison
-386,adjective,düzensiz,untidy,comparison
-387,verb,buluşmak,"to meet
-(at somewhere)",travel
-388,noun,havalimanı,airport,location
-389,noun,yanlışlık,mistake,people
-390,noun,hata,error,people
-391,noun,ruh,"spirit
-(soul)",religion
-392,noun,alkol,alcohol,food
-393,noun,kültür,culture,people
-394,noun,hırs,"ambition
-(greed, avid)",abstract
-395,adjective,hırslı,ambitious,comparison
-396,noun,inşaat,construction,location
-397,noun,ortak,"partner
-(business)",career
-398,noun,gümüş,silver,material
-399,noun,sincap,squirrel,animal
-400,adverb,yani,so,people
-401,noun,cümle,sentence,people
-402,adjective,pis,filthy,comparison
-403,noun,pis koku,"stink
-(stench)",environment
-404,noun,ateş,fire,nature
-405,noun,sinir,anger,feeling
-406,adjective,sinirli,angry,comparison
-407,verb,sıçramak,to splash,people
-408,verb,zıplamak,to bounce,people
-409,noun,sır,secret,abstract
-410,noun,ip,"thread
-(yarn)",material
-411,noun,benzin,gasoline,material
-412,adjective,tatlı,sweet,food
-413,adjective,tatsız,unpleasant,food
-414,adjective,amca,uncle,people
-415,noun,kil,clay,material
-416,noun,cüzdan,wallet,material
-417,adverb,toplam,"total
-(totally)",abstract
-418,adjective,alt,"bottom
-(lower)",comparison
-419,phrase,iyi eğlenceler,"have fun
-(have a good time)",people
-420,noun,hız,"speed
-(pace)",comparison
-421,noun,ücret,fee,trade
-422,phrase,ücretsiz,free of charge,trade
-423,noun,hukuk,law,politics
-424,adjective,kızgın,mad,feeling
-425,adjective,ekşi,sour,food
-426,adjective,yapışkan,sticky,material
-427,noun,fikir,idea,abstract
-428,verb,öksürmek,to cough,body
-429,adjective,memnun,glad,feeling
-430,verb,kaybetmek,to love,abstract
-431,noun,geyik,deer,animal
-432,adjective,acı,bitter,food
-433,noun,mor,purple,colors
-434,noun,kule,tower,location
-435,verb,doldurmak,to fill,comparison
-436,adjective,kıskanç,jealous,feeling
-437,adjective,sarışın,blonde,comparison
-438,noun,gardırop,wardrobe,home
-439,noun,fiyat,"cost
-(price)",trade
-440,noun,koridor,"hallway
-(corridor)",location
-441,noun,millet,nation,politics
-442,adjective,milli,national,politics
-443,adverb,bazen,sometimes,people
-444,adjective,kasa,safe,abstract
-445,adjective,fakir,poor,comparison
-446,adverb,çoğu,"mostly
-(usually/most of)",comparison
-447,adjective,kibar,polite,comparison
-448,noun,deri aksesuarlar,leather accessories,material
-449,verb,koymak,"to put
-(to place)",people
-450,noun,özgürlük,freedom,politics
-451,noun,lamba,lamp,home
-452,adjective,mükemmel,excellent,comparison
-453,noun,vida,screw,tool
-454,noun,tornavida,screwdriver,tool
-455,noun,müşteri,customer,trade
-456,verb,sokmak,"to put in
-(to insert)",comparison
-457,noun,harita,map,travel
-458,verb,utandırmak,to embarrass,comparison
-459,noun,grup,group,people
-460,verb,tanışmak,"to meet
-(first time)",people
-461,noun,hastane,hospital,location
-462,verb,dönümek,to turn,travel
-463,adjective,konuşkan,talkative,people
-464,noun,minder,cushion,home
-465,adjective,tek,"single
-(sole)",numbers
-466,noun,tek sayı,odd number,numbers
-467,verb,para çekmek,to withdraw money,trade
-468,noun,dünya,world,location
-469,verb,akmak,to flow,nature
-470,verb,gönüllü olmak,to volunteer,people
-471,noun,kâlp,heart,body
-472,adjective,serin,"chilly
-(cool)",environment
-473,adverb,eğer,if,people
-474,verb,besler,nurishes,people
-475,verb,dua etmek,to pray,religion
-476,verb,ezmek,to crush,comparison
-477,adverb,üstelik,"moreover
-(also)",people
-478,adjective,her yerde,everywhere,location
-479,adjective,eşit,"even
-(money)",trade
-480,verb,arındırmak,to purify,environment
-481,adverb,başka bir,another,people
-482,verb,korkutmak,to scare,people
-483,phrase,güle güle kullanın,use it with a smile,people
-484,adjective,aynı,the same,comparison
-485,adjective,minik,tiny,comparison
-486,noun,durum,situation,environment
-487,noun,başkan,president,politics
-488,noun,hapis,prison,location
-489,noun,tutsak,prisoner,career
-490,noun,sopa,stick,nature
-491,verb,tekrar,repeat,people
-492,adjective,üzgün,sad,feeling
-493,adjective,kayıp,lost,location
-494,verb,seçmek,"to pick
-(to choose)",people
-495,verb,rüya görmek,to dream,abstract
-496,noun,kalabalık,crowd(ed),comparison
-497,verb,düzenlemek,to organize,comparison
-498,adjective,cılgın,crazy,people
-499,adverb,yine,again,people
-500,noun,kaş,(eye)brow,body
-501,noun,çamur,mud,material
-502,verb,sabretmek,to be patient,abstract
-503,adjective,yasak,forbidden,comparison
-504,noun,fark,difference,comparison
-505,adjective,farklı,different,comparison
-506,adjective,farksız,indifferent,comparison
-507,noun,tünel,tunnel,location
-508,adjective,sakin,"calm
-(quiet)",comparison
-509,adjective,neşe,"joy
-(cheer)",feeling
-510,adjective,kaba,"rude
-(impolite)",comparison
-511,adjective,mutlu,happy,feeling
-512,noun,düğün resepsiyonu,wedding reception,location
-513,noun,raf,shelf,home
-514,noun,tavşan,bunny rabbit,animal
-515,noun,sebze,vegetable,food
-516,adjective,sarhoş,drunk,comparison
-517,noun,bayram,"festival
-(feast)",religion
-518,adjective,benzer,similar,comparison
-519,adjective,benzersiz,unalike,comparison
-520,adverb,arasına,"between
-(people)",location
-521,adverb,arasında,"between
-(places, things)",location
-522,phrase,sabırlı (ol),(be) patient,people
-523,noun,kilise,church,religion
-524,noun,mermi,bullet,politics
-525,noun,yer,place,location
-526,adjective,kalın,thick,material
-527,phrase,afiyet olsun,bon appetit,food
-528,adverb,sonunda,finally,comparison
-529,noun,olası,possible,comparison
-530,adjective,olasılı,probable,comparison
-531,adjective,olasılık,possibility,comparison
-532,adjective,olasılıklı,probability,comparison
-533,verb,karşılaşmak,"to run into
-(to come across)",location
-534,noun,lise,high school,location
-535,noun,kertenkele,lizard,animal
-536,verb,demek,to say,people
-537,verb,dedi,said,people
-538,phrase,telefon çalıyor,the phone is ringing,people
-539,verb,telefon çalmak,to ring (phone),people
-540,noun,denge,balance,comparison
-541,adjective,dengeli,balanced,comparison
-542,adjective,dengesiz,unbalanced,comparison
-543,verb,dengelemek,to balance,people
-544,noun,mizah,humor,comparison
-545,noun,tehlike,danger,environment
-546,adjective,tehlikeli,dangerous,comparison
-547,adjective,garip,strange,comparison
-548,verb,olmalı,should be,comparison
-549,noun,olma,being,feeling
-550,noun,sınır,limit,abstract
-551,adjective,sınırlı,limited,comparison
-552,adjective,sınırsız,limitless,comparison
-553,adjective,açgözlü,greedy,comparison
-554,adjective,yuvarlak,round,comparison
-555,noun,hava,air,nature
-556,noun,başarı,success,people
-557,adjective,başarılı,successful,comparison
-558,adjective,başarısız,"fail
-(unsuccessful)",comparison
-559,noun,yağmur,rain,nature
-560,noun,büro,office,location
-561,noun,satranç,chess,sports
-562,noun,mevsim,season,nature
-563,noun,zemin,ground,nature
-564,adjective,arkadaş canlısı,"friendly
-(sociable)",comparison
-565,noun,araç,tool,tool
-566,phrase,bence,in my opinion,people
-567,noun,zaman,time,abstract
-568,noun,paket,package,material
-569,noun,ülke,country,politics
-570,verb,seslenmek,to call out,people
-571,noun,eczane,pharmacy,location
-572,noun,piyano,piano,art
-573,adjective,küstah,arrogant,comparison
-574,verb,sevişmek,to make love,nature
-575,noun,toprak,earth,nature
-576,noun,espri,wit,people
-577,adjective,esprili,witty,comparison
-578,noun,halat,rope,material
-579,noun,asansör,elevator,travel
-580,noun,merak,wonder,abstract
-581,adjective,meraklı,curious,comparison
-582,noun,karpuz,watermelon,food
-583,adjective,dürüst,honest,comparison
-584,noun,sınıf,"class
-(grade)",location
-585,adverb,"ya da
-(veya)",or,people
-586,noun,kavun,melon,food
-587,verb,ödemek,to pay,trade
-588,noun,hamur,dough,food
-589,adjective,şirin,cute,comparison
-590,noun,bilet,ticket,travel
-591,phrase,kolay gelsin,may it come easy,people
-592,adjective,bir kaç,a few,numbers
-593,verb,yalamak,to lick,nature
-594,verb,yapmak,to make,people
-595,noun,kasırga,hurricane,nature
-596,noun,soğan,onion,food
-597,verb,fırçalamak,to brush,people
-598,verb,zaman geçirmek,to spend time,abstract
+id,type,turkish,english
+0,noun,alkol,alcohol
+1,noun,inşaat,construction
+2,noun,ortak,partner (business)
+3,noun,cümle,sentence
+4,noun,pis koku,stink (stench)
+5,noun,ateş,fire
+6,noun,sinir,anger
+7,adjective,sinirli,angry
+8,noun,benzin,gasoline
+9,noun,mor,purple
+10,noun,kule,tower
+11,adjective,sarışın,blonde
+12,noun,gardırop,wardrobe
+13,noun,fiyat,cost (price)
+14,adjective,milli,national
+15,adjective,fakir,poor
+16,adjective,kibar,polite
+17,noun,deri aksesuarlar,leather accessories
+18,noun,özgürlük,freedom
+19,adjective,mükemmel,excellent
+20,noun,tornavida,screwdriver
+21,noun,müşteri,customer
+22,verb,sokmak,to put in (to insert)
+23,noun,harita,map
+24,verb,tanışmak,to meet (first time)
+25,verb,dönümek,to turn
+26,adjective,konuşkan,talkative
+27,noun,minder,cushion
+28,adjective,tek,single (sole)
+29,noun,tek sayı,odd number
+30,adjective,serin,chilly (cool)
+31,verb,beslemek,to feed
+32,verb,ezmek,to crush
+33,adverb,üstelik,moreover (also)
+34,adjective,eşit,even (money)
+35,verb,arındırmak,to purify
+36,adverb,başka bir,another
+37,adjective,aynı,the same
+38,noun,durum,situation
+39,noun,başkan,president
+40,noun,sopa,stick
+41,verb,tekrar,repeat
+42,verb,seçmek,to pick (to choose)
+43,noun,dal,branch
+44,verb,merak etmek,to wonder
+45,noun,sivrisinek,mosquito (gnat)
+46,adjective,utangaç,shy
+47,noun,gezi,trip (cruise)
+48,verb,atmak,to throw
+49,adjective,fena,bad
+50,noun,yağ,oil
+51,noun,tane,"piece (item, each)"
+52,noun,krem,cream
+53,noun,saygı,respect
+54,adjective,nazik,kind (gentle)
+55,adjective,bile,even (comparing with)
+56,noun,kayısı,apricot
+57,verb,binmek,to ride
+58,verb,dolaşmak,to wander (to roam)
+59,verb,ısınmak,to warm up
+60,adjective,(bir) sonraki,(the) next
+61,phrase,iyi o zaman...,well then...
+62,adjective,geçen,last (previous)
+63,noun,gizem,mystery
+64,adjective,aç,hungry
+65,noun,açlık,hunger
+66,noun,sahte,fake
+67,adjective,zengin,rich
+68,verb,yorulmak,to be/get tired
+69,noun,bilek,wrist
+70,noun,testis,testacles
+71,noun,vücut,body
+72,noun,yumurtalık,ovary
+73,adjective,kusursuz,perfect (flawless)
+74,noun,kusur,flaw
+75,verb,taşımak,"to carry (to move, to transport)"
+76,noun,maksimum,maximum
+77,verb,beğenmek,to like
+78,noun,toplantı,meeting
+79,noun,parça,piece
+80,noun,el işleri,handmade items
+81,verb,kazanmak,to win
+82,verb,yakmak,to burn
+83,verb,korumak,to protect
+84,verb,oturmak,to reside
+85,noun,parti,party
+86,noun,bulut,cloud
+87,noun,ipucu,hint
+88,noun,indir,download
+89,verb,götürmek,to take
+90,noun,şey,thing (stuff)
+91,noun,inanç,belief (faith)
+92,noun,hayal,imagination
+93,adjective,yaygın,common
+94,noun,hırsız,thief
+95,noun,plak,record (vinyl)
+96,noun,çamaşır makinesi,washing machine (laundry)
+97,phrase,üstü kalsın,keep the change
+98,noun,komodin,bedside table
+99,verb,tapmak,to worship
+100,adjective,sessiz,quiet
+101,noun,büfe,"buffet (food stand, kiosk)"
+102,noun,odun,firewood
+103,adjective,keskin,sharp
+104,adjective,çekici,attractive (charming)
+105,adjective,ileride,up ahead
+106,noun,insan,human (person)
+107,noun,bekle,expect
+108,noun,müdür,manager
+109,adjective,doğru,true
+110,noun,bulaşık makinesi,dishwasher
+111,adverb,henüz,yet
+112,adverb,ya,either
+113,verb,kalmak,to stay
+114,adjective,düzenli,tidy
+115,adjective,düzensiz,untidy
+116,verb,buluşmak,to meet (at somewhere)
+117,noun,havalimanı,airport
+118,noun,yanlışlık,mistake
+119,noun,hata,error
+120,noun,ruh,spirit (soul)
+121,noun,kültür,culture
+122,noun,hırs,"ambition (greed, avid)"
+123,adjective,hırslı,ambitious
+124,noun,gümüş,silver
+125,noun,sincap,squirrel
+126,adverb,yani,so
+127,adjective,pis,filthy
+128,verb,sıçramak,to splash
+129,verb,zıplamak,to bounce
+130,noun,sır,secret
+131,noun,ip,thread (yarn)
+132,adjective,tatlı,sweet
+133,adjective,tatsız,unpleasant
+134,adjective,alt,bottom (lower)
+135,phrase,iyi eğlenceler,have fun (have a good time)
+136,adjective,kızgın,mad
+137,adjective,ekşi,sour
+138,adjective,yapışkan,sticky
+139,verb,öksürmek,to cough
+140,adjective,memnun,glad
+141,noun,geyik,deer
+142,adjective,acı,bitter
+143,verb,doldurmak,to fill
+144,adjective,kıskanç,jealous
+145,noun,koridor,hallway (corridor)
+146,noun,millet,nation
+147,adverb,bazen,sometimes
+148,adjective,kasa,safe
+149,adverb,çoğu,"mostly (usually, most of)"
+150,verb,koymak,to put (to place)
+151,noun,lamba,lamp
+152,noun,kas,muscle
+153,adverb,bu sırada,meanwhile
+154,noun,dil,tongue (language)
+155,noun,bakır,copper
+156,noun,suç,crime
+157,noun,bal arısı,honeybee
+158,noun,grip,flu
+159,adverb,etrafında,around (in vicinity)
+160,adjective,kaygan,slippery
+161,noun,grafiker,graphic designer
+162,adverb,seyrek,seldom
+163,adjective,çiftçi,farmer
+164,noun,çiftlik,farm
+165,adjective,susamış,thirsty
+166,noun,motor,engine
+167,phrase,bu sefer...,this time...
+168,noun,konuşma,conversation
+169,noun,giriş,entrance (entry)
+170,adjective,defo,defect
+171,noun,yetenek,talent (skill)
+172,noun,köle,slave
+173,noun,kölelik,slavery
+174,noun,rapor,report
+175,noun,balta,axe
+176,adjective,şaşırtıcı,surprising
+177,adjective,kocaman,huge
+178,verb,demek,to say
+179,adjective,saçma,absurd (silly)
+180,noun,ses,voice (sound)
+181,noun,kişi,"person (guy, girl)"
+182,verb,spor yapmak,to do sport
+183,verb,görünmek,to seem
+184,phrase,ertesi,the following (after)
+185,noun,ün,fame
+186,adjective,ünlü,famous
+187,noun,bilgi,information
+188,verb,kiralamak,to rent
+189,adjective,baharatsız,bland (unseasoned)
+190,noun,pürüz,rough
+191,verb,esneme hareketleri yapmak,to stretch
+192,noun,reklam,advertisement
+193,verb,vidalamak,to screw
+194,noun,hükümet,government
+195,noun,cehennem,hell
+196,verb,girmek,to enter
+197,adjective,çıplak,naked (nude)
+198,noun,delik,hole
+199,noun,üçlü,triple
+200,noun,füze,missle
+201,verb,asmak,to hang
+202,noun,hediyelike eşya,souvenir
+203,noun,hindi,turkey (bird)
+204,noun,bomba,bomb
+205,noun,efsane,myth (legend)
+206,noun,roket,rocket
+207,adjective,saf,naive
+208,noun,oda,room
+209,noun,oy,vote
+210,verb,kirletmek,to make dirty (to pollute)
+211,verb,gömmek,to bury
+212,noun,bez,cloth (rag)
+213,adjective,patlamak,"to explode (burst, erupt)"
+214,noun,ürün,product
+215,adjective,müsait,available (people)
+216,noun,çift,double (pair)
+217,noun,vida,screw
+218,verb,utandırmak,to embarrass
+219,noun,grup,group
+220,noun,hastane,hospital
+221,verb,para çekmek,to withdraw money
+222,noun,dünya,world
+223,verb,akmak,to flow
+224,verb,gönüllü olmak,to volunteer
+225,adverb,eğer,if
+226,noun,kâlp,heart
+227,verb,dua etmek,to pray
+228,adjective,her yerde,everywhere
+229,verb,korkutmak,to scare
+230,phrase,güle güle kullanın,use it with a smile
+231,adjective,minik,tiny
+232,noun,hapis,prison
+233,noun,tutsak,prisoner
+234,adjective,üzgün,sad
+235,adjective,kayıp,lost
+236,noun,kalabalık,crowd(ed)
+237,verb,düzenlemek,to organize
+238,adverb,yine,again
+239,verb,sabretmek,to be patient
+240,noun,fark,difference
+241,noun,tünel,tunnel
+242,adjective,sakin,calm (quiet)
+243,noun,düğün resepsiyonu,wedding reception
+244,noun,raf,shelf
+245,noun,sebze,vegetable
+246,adjective,sarhoş,drunk
+247,adverb,arasına,between (people)
+248,adverb,arasında,"between (places, things)"
+249,noun,kilise,church
+250,adjective,kalın,thick
+251,noun,olası,possible
+252,adjective,olasılı,probable
+253,verb,karşılaşmak,to run into (to come across)
+254,noun,kertenkele,lizard
+255,phrase,telefon çalıyor,the phone is ringing
+256,noun,denge,balance
+257,noun,mizah,humor
+258,noun,tehlike,danger
+259,adjective,garip,strange
+260,adverb,olmalı,should be
+261,noun,sınır,limit
+262,adjective,açgözlü,greedy
+263,noun,hava,air
+264,noun,başarı,success
+265,noun,yağmur,rain
+266,noun,büro,office
+267,noun,mevsim,season
+268,adjective,arkadaş canlısı,friendly (sociable)
+269,noun,paket,package
+270,noun,ülke,country
+271,noun,piyano,piano
+272,adjective,küstah,arrogant
+273,noun,toprak,earth
+274,noun,merak,wonder
+275,adjective,meraklı,curious
+276,noun,karpuz,watermelon
+277,adverb,"ya da
+(veya)",or
+278,noun,kavun,melon
+279,noun,hamur,dough
+280,adjective,şirin,cute
+281,adjective,bir kaç,a few
+282,noun,zincir,chain
+283,verb,yanıtlamak,to respond
+284,verb,kaçmak,to escape
+285,verb,ayırtmak,to book (to reserve)
+286,verb,telefona bakmak,to answer the phone
+287,verb,kıskanmak,to be jealous
+288,verb,gülümsemek,to smile
+289,adjective,aptal,fool (stupid)
+290,adjective,aptalca,foolish
+291,noun,tasarım,design
+292,noun,kuaför,hairdresser
+293,noun,cevap,answer
+294,verb,cevap vermek,to answer
+295,noun,bakır eşyalar,copper items
+296,adjective,terbiyeli,manner (well behaved)
+297,verb,terbiye,training (to be behaved)
+298,noun,akciğer,lung
+299,adjective,amca,uncle
+300,adjective,dağınık,messy
+301,noun,eş,spouse
+302,noun,sabır,patience
+303,verb,takip etmek,to follow
+304,adverb,beraber,together
+305,noun,umut,hope
+306,adjective,mevcut,available (objects)
+307,adjective,bayat,stale (not fresh)
+308,adjective,hoş,nice
+309,verb,kandırmak,to trick (to deceive)
+310,noun,bütün,whole
+311,verb,yaşamak,to live
+312,verb,ölmek,to die
+313,noun,böbrek,kidney
+314,noun,güç,power
+315,adjective,kusurlu,flawed
+316,noun,kelebek,butterfly
+317,verb,yuvarlanmak,to roll
+318,verb,kâbus görmek,to have a nightmare
+319,adjective,ince,thin (objects)
+320,noun,kil,clay
+321,adjective,anlayış,understanding
+322,noun,bisiklet,bicycle
+323,verb,varmak,to arrive
+324,adjective,yaşlı,old
+325,noun,altın,gold (golden)
+326,noun,hiç bir şey,nothing
+327,verb,uğramak,to pop in
+328,noun,devlet,state (branch of government)
+329,noun,lezzet,flavor
+330,adjective,lezzetli,flavorful
+331,adjective,lezzetsiz,tastless (flavorless)
+332,noun,cüzdan,wallet
+333,adjective,en çok,at most
+334,noun,erik,plum
+335,adjective,bitmek,to be done (to end)
+336,noun,ibadet,religious practice
+337,adverb,toplam,total (totally)
+338,noun,hız,speed (pace)
+339,noun,dergi,magazine
+340,noun,pikap,record player
+341,adjective,hakkında,"about (regarding, concerning)"
+342,noun,paspas,doormat
+343,adjective,izinli,on leave
+344,adjective,gergin,tense (rigid)
+345,adjective,güçsüz,weak (powerless)
+346,adjective,güçlü,powerful
+347,verb,tasalanmak,to worry
+348,noun,izin,permission (authorize)
+349,adjective,izinsiz,unauthorized
+350,phrase,ya sen?,what about you?
+351,phrase,Acaba...,I wonder...
+352,noun,gaye,purpose
+353,noun,amaç,goal
+354,adjective,basit,simple
+355,phrase,kim...?,who...?
+356,noun,saat,"watch (hour, o'clock)"
+357,noun,oyun,game
+358,adjective,öbür,the other
+359,verb,sıkmak,to tighten
+360,verb,sıkmak için,to squeeze
+361,noun,deri,leather
+362,verb,kanıksamak,to get used to
+363,verb,karşılaştırmak,to compare
+364,verb,bakım,to look after (to care for)
+365,verb,kakalamak,to poop
+366,noun,havuç,carrot
+367,noun,savaş,war
+368,adjective,çeşıt,type of (kind of)
+369,adjective,çeşitli,various
+370,noun,asgari,minimum
+371,noun,dışkı,"poop (feces, stool)"
+372,adjective,en fazla,utmost (of the highest)
+373,noun,teyze,aunt
+374,verb,istemek,to want
+375,noun,salatalık,cucumber
+376,adjective,üst,top
+377,noun,barış,peace
+378,noun,takı,jewelry
+379,noun,insanlar,people
+380,noun,başbakan,prime minister
+381,verb,seyahat etmek,to travel
+382,noun,kaya,rock
+383,noun,komşuluk,neighborhood
+384,noun,plaj,beach
+385,noun,toz,dust
+386,noun,basar,flood
+387,noun,daire,apartment
+388,noun,içeride,inside
+389,noun,mağaza,department store
+390,noun,iş,business (work)
+391,noun,tepe,hill
+392,noun,orman,"forest (woods, jungle)"
+393,adjective,ses,vocal (voice)
+394,noun,tapınak,temple (place to worship)
+395,verb,ayakta durmak,to stand
+396,noun,tilki,fox
+397,adjective,uykulu,sleepy (drowsy)
+398,verb,endişelenmek,to fret
+399,adjective,iyimser,optimistic
+400,verb,kaygılanmak,to be anxious
+401,noun,doğum,birth
+402,noun,doğmuş,born
+403,verb,sahip olmak,to own
+404,noun,silâh,weapon
+405,noun,patron,boss
+406,adjective,yüksek,loud
+407,noun,hayvan,animal
+408,adjective,hızlı,fast
+409,noun,ölü,dead
+410,adjective,ölümcül,deadly (fatal)
+411,verb,yanmak,to be burned
+412,noun,yanık,burnt
+413,noun,değer,value
+414,adjective,degerli,valuable
+415,adjective,değersiz,worthless (valueless)
+416,adjective,asabi,irritable
+417,noun,devrim,revolution
+418,noun,sehpa,coffee table
+419,verb,şikayet etmek,to complain
+420,phrase,peki,well then (all right)
+421,noun,fener,lighthouse
+422,noun,el feneri,flashlight
+423,verb,arzu etmek,to wish
+424,adjective,ağır,heavy
+425,verb,gürültü yapmak,to make noise
+426,adjective,gürültülü,noisy
+427,noun,köşe,corner
+428,adjective,duygusal,emotional
+429,noun,sıfır,zero
+430,verb,nefes almak,to breathe
+431,noun,mürekkep,ink
+432,adjective,korkutucu,scary
+433,noun,aurupa,europe
+434,adjective,müttefik,allied
+435,adjective,sakar,clumsy
+436,adjective,karanlık,dark
+437,noun,takım,team (sports)
+438,noun,bağırsak,"bowel (intestine, guts)"
+439,adjective,ciddi,serious
+440,adjective,kötümser,pessimistic
+441,verb,emmek,to suck
+442,noun,sıkışmış,stuck
+443,noun,köprü,bridge
+444,noun,karaciğer,liver
+445,noun,siyaset,politics
+446,noun,kask,helmet
+447,noun,istasyon,station
+448,noun,soru,question
+449,verb,basmak,to press
+450,verb,üstüne basmak,to step on (to tread)
+451,adjective,genç,young
+452,noun,taraf,way (side)
+453,noun,kitaplık,bookcase
+454,adverb,artık,anymore (no longer)
+455,verb,taklit etmek,to imitate
+456,verb,kontrol etmek,to control
+457,adjective,taze,fresh
+458,verb,kaymak,to slip
+459,adjective,parlak,bright
+460,noun,incir,fig
+461,verb,doymak,to be full
+462,verb,osurmak,to fart
+463,noun,ücret,fee
+464,phrase,ücretsiz,free of charge
+465,noun,hukuk,law
+466,adjective,nadir,rare
+467,adverb,nadiren,rarely
+468,noun,mühendis,engineer
+469,noun,sanatçı,artist
+470,noun,sanat,art
+471,verb,kanamak,to bleed
+472,adjective,en az,least
+473,phrase,en azından,at least
+474,phrase,olur,all right (approval)
+475,adjective,yetenekli,skillful
+476,adjective,yeteneksiz,untalented
+477,adjective,tuzlu,salty
+478,noun,sorun,"problem (issue, trouble)"
+479,adjective,zeki,intelligent
+480,verb,katılmak,to join
+481,noun,çöl,desert
+482,noun,doğayı,nature
+483,noun,muhasebeci,accountant
+484,noun,pençe,claw
+485,noun,pati,paw
+486,verb,toplamak,to gather (to collect)
+487,noun,yanlış,wrong
+488,noun,askeri,military
+489,noun,ordu,army
+490,noun,adalet,justice
+491,adjective,adaletsiz,unjust
+492,verb,sallanmak,to rock
+493,noun,baharat,spice
+494,adjective,baharatlı,spicy
+495,adjective,pürüzlü,rough
+496,adjective,pürüzsüz,smooth
+497,noun,örümcek,spider
+498,noun,somon,salmon
+499,noun,duman,smoke
+500,adjective,dumanlı,smokey
+501,adjective,dumansız,smokeless
+502,noun,gerek,need
+503,adjective,gerekli,needful
+504,adjective,gereksiz,needless
+505,noun,yaş,age
+506,verb,affetmek,to forgive
+507,noun,kilit,lock
+508,verb,kilitlemek,to lock
+509,noun,reklam ajansı,advertising agency
+510,noun,verim,"efficiency (yield, output)"
+511,adjective,verimli,productive (efficient)
+512,adjective,verimsiz,unproductive (inefficient)
+513,noun,özel,private (special)
+514,noun,dolu,full
+515,noun,zarar,harm
+516,adjective,zararlı,harmful
+517,adjective,zararsız,harmless
+518,adjective,zalim,cruel
+519,adjective,çirkin,ugly
+520,noun,yol,path
+521,noun,kara,land (soil)
+522,verb,çıkıvermek,to hop out of (to dart)
+523,noun,uç,"point (tip, edge)"
+524,noun,pil,battery
+525,noun,fırsat,opportunity
+526,verb,canım çekiyor,to crave for
+527,adjective,çift sayı,even number
+528,noun,çivi,nail
+529,noun,tiyatro,theatre
+530,verb,sohbet etmek,to chat
+531,noun,oğul,son
+532,noun,kaplan,tiger
+533,noun,asya,asia
+534,phrase,o kadar,that's all
+535,verb,düşmek,to fall
+536,adjective,boş,empty
+537,verb,hissetmek,to feel
+538,verb,ölçmek,to measure
+539,noun,fikir,idea
+540,verb,kaybetmek,to lose (something)
+541,verb,rüya görmek,to dream
+542,adjective,cılgın,crazy
+543,noun,kaş,(eye)brow
+544,noun,çamur,mud
+545,adjective,yasak,forbidden
+546,adjective,farklı,different
+547,adjective,farksız,indifferent
+548,adjective,neşe,joy (cheer)
+549,adjective,kaba,rude (impolite)
+550,adjective,mutlu,happy
+551,noun,tavşan,bunny rabbit
+552,noun,bayram,festival (feast)
+553,adjective,benzer,similar
+554,adjective,benzersiz,unalike
+555,phrase,sabırlı (ol),(be) patient
+556,noun,mermi,bullet
+557,noun,yer,place
+558,phrase,afiyet olsun,bon appetit
+559,adverb,sonunda,finally
+560,adjective,olasılık,possibility
+561,adjective,olasılıklı,probability
+562,noun,lise,high school
+563,verb,duymak,to hear
+564,adverb,dedi,said
+565,verb,telefon çalmak,to call (phone)
+566,adjective,dengeli,balanced
+567,adjective,dengesiz,unbalanced
+568,verb,dengelemek,to balance
+569,adjective,tehlikeli,dangerous
+570,noun,olma,being
+571,adjective,sınırlı,limited
+572,adjective,sınırsız,limitless
+573,adjective,yuvarlak,round
+574,adjective,başarılı,successful
+575,adjective,başarısız,fail (unsuccessful)
+576,noun,satranç,chess
+577,noun,zemin,ground
+578,noun,araç,tool
+579,phrase,bence,in my opinion
+580,noun,zaman,time
+581,verb,seslenmek,to call out
+582,noun,eczane,pharmacy
+583,verb,sevişmek,to make love
+584,noun,espri,wit
+585,adjective,esprili,witty
+586,noun,halat,rope
+587,noun,asansör,elevator
+588,adjective,dürüst,honest
+589,noun,sınıf,class (grade)
+590,verb,ödemek,to pay
+591,noun,bilet,ticket
+592,phrase,kolay gelsin,may it come easy
+593,verb,yalamak,to lick
+594,verb,yapmak,to make (to do)
+595,noun,kasırga,hurricane
+596,noun,soğan,onion
+597,verb,fırçalamak,to brush
+598,verb,zaman geçirmek,to spend time
 599,adverb,"daki-
-deki-","which is-
-which are-",people
-600,verb,korkmak,to be scared,feeling
-601,adverb,keşke,"if only
-(I wish)",abstract
-602,adverb,özellikle,especially,people
-603,noun,sağlık,health,body
-604,adjective,sağlıklı,healthy,comparison
-605,adjective,sağlıksız,unhealthy,comparison
-606,noun,sempatik,sympathy,feeling
-607,adjective,anlayışlı,sympathetic,comparison
-608,adjective,anlayışsız,unsympathetic,comparison
-609,adverb,...bir süre,for a while...,people
-610,noun,cennet,heaven,religion
-611,verb,bırakmak,"to quit
-(to leave it)",people
-612,noun,çekiç,hammer,tool
-613,noun,vergi,tax,politics
-614,noun,bant,tape,tool
-615,verb,bantlamak,to tape,tool
-616,verb,dört gözle beklemek,to look forward to,abstract
-617,noun,yarat,create,art
-618,adjective,yaratıcı,"creative
-(creator)",art
-619,verb,yaratmak,to create,art
-620,verb,aramak,"to call
-(phone)",people
-621,verb,yumruklamak,to punch,people
-622,phrase,şerefe,cheers,people
-623,adverb,acele et,hurry up,people
-624,verb,acele etmek,to hurry up,people
-625,verb,tutmak,to hold,travel
-626,phrase,geçmiş olsun,get well soon,people
-627,noun,sebep,reason,people
-628,noun,bölge,area,environment
-629,verb,emekli olmak,to retire,career
-630,verb,geçirmek,"to spend
-(to get something through)",people
-631,verb,hazırlamak,to prepare,environment
-632,adjective,düşman,"enemy
-(foe)",politics
-633,noun,hemşire,nurse,career
-634,phrase,elinize sağlık,health to your hand,food
-635,verb,anlamak,to understand,people
-636,verb,çıkmak,to exit,travel
-637,verb,hecelemek,"to spell
-(to syllabicate)",people
-638,verb,ayrılmak,to leave,travel
-639,adverb,kimse,anybody,people
-640,noun,kıyafet,clothes,home
-641,noun,vatandaş,citizen,politics
-642,adverb,birisi,somebody,people
-643,adverb,kısacası,in brief,people
-644,noun,tekne,boat,travel
-645,noun,politikacı,politician,politics
-646,verb,göndermek,to send,people
-647,noun,turşu,pickle,food
-648,noun,gezeteci,journalist,career
-649,noun,konu,topic/subject,people
-650,verb,geri dönmek,to come back,travel
-651,noun,duygu,emotion,nature
-652,noun,tahmin,guess,people
-653,verb,tercüme etmek,to translate,people
-654,adverb,eskiden,in the past,people
+deki-",which is- which are-
+600,verb,korkmak,to be scared
+601,adverb,keşke,if only (I wish)
+602,adverb,özellikle,especially
+603,noun,sağlık,health
+604,adjective,sağlıklı,healthy
+605,adjective,sağlıksız,unhealthy
+606,noun,sempatik,sympathy
+607,adjective,anlayışlı,sympathetic
+608,adjective,anlayışsız,unsympathetic
+609,adverb,...bir süre,for a while...
+610,noun,cennet,heaven
+611,verb,bırakmak,to quit (to leave it)
+612,noun,çekiç,hammer
+613,noun,vergi,tax
+614,noun,bant,tape
+615,verb,bantlamak,to tape
+616,verb,dört gözle beklemek,to look forward to
+617,noun,yarat,create
+618,adjective,yaratıcı,creative (creator)
+619,verb,yaratmak,to create
+620,verb,aramak,to call (phone)
+621,verb,yumruklamak,to punch
+622,phrase,şerefe,cheers
+623,adverb,acele et,hurry up
+624,verb,acele etmek,to hurry up
+625,verb,tutmak,to hold
+626,phrase,geçmiş olsun,get well soon
+627,noun,sebep,reason
+628,noun,bölge,area
+629,verb,emekli olmak,to retire
+630,verb,geçirmek,to spend (to get something through)
+631,verb,hazırlamak,to get ready (to prepare)
+632,adjective,düşman,enemy (foe)
+633,noun,hemşire,nurse
+634,phrase,elinize sağlık,health to your hand
+635,verb,anlamak,to understand
+636,verb,çıkmak,to exit
+637,verb,hecelemek,to spell (to syllabicate)
+638,verb,ayrılmak,to leave
+639,adverb,kimse,anybody
+640,noun,kıyafet,clothes
+641,noun,vatandaş,citizen
+642,adverb,birisi,somebody
+643,adverb,kısacası,in brief
+644,noun,tekne,boat
+645,noun,politikacı,politician
+646,verb,göndermek,to send
+647,noun,turşu,pickle
+648,noun,gezeteci,journalist
+649,noun,konu,topic
+650,verb,geri dönmek,to come back
+651,noun,duygu,emotion
+652,noun,tahmin,guess
+653,verb,tercüme etmek,to translate
+654,adverb,eskiden,in the past
+655,test,test,test
+656,test,test2,test2
+657,verb,esnemek,to yawn
+658,noun,hürriyet,liberty
+659,adjective,hür,free
+660,verb,hatırlamak,to remember
+661,noun,kaşık,spoon
+662,noun,çatal,fork
+663,noun,bıçak,knife
+664,noun,gümüş takımlar,silverware
+665,noun,ağaç,tree
+666,verb,inanmak,to believe
+667,verb,unutmak,to forget
+668,noun,kemik,bone
+669,verb,getirmek,to bring
+670,noun,tuz,salt
+671,noun,kumanda,remote control
+672,noun,yorgan,blanket
+673,noun,kase,bowl
+674,noun,yatak,bed
+675,adjective,evli,married
+676,verb,kapatmak,to close
+677,verb,giyinmek,to dress
+678,verb,içmek,to drink
+679,noun,ders,lesson
+680,noun,geri,reverse
+681,adjective,uzun,tall
+682,verb,gülmek,to laugh
+683,verb,uyumak,to sleep
+684,adjective,öğrenci,student
+685,noun,diş,tooth
+686,noun,dişler,teeth
+687,verb,yazmak,to write
+688,verb,yemek,to eat
+689,verb,ezberlemek,to memorize
+690,adjective,komşu,neighbor
+691,noun,saç,hair
+692,noun,mendil,tissue
+693,adjective,ilginç,interesting
+694,adverb,resmen,officially
+695,verb,güvenmek,to trust (to rely on)
+696,noun,bilgisayar,computer
+697,noun,makin,machine
+698,verb,başlamak,to begin (to start)
+699,verb,yıkamak,to wash
+700,verb,harcamak,"to use up (to spend, to consume)"
+701,verb,göstermek,to show
+702,noun,piramit,pyramid
+703,noun,çatı,roof
+704,noun,boya,paint
+705,adverb,yukarı,up
+706,adjective,şişman,fat
+707,adjective,kuru,dry
+708,noun,şişe,bottle
+709,noun,boyun,neck
+710,noun,ocak,stove
+711,noun,mangal,bbq grill
+712,noun,doğu,east
+713,noun,ada,island
+714,noun,ayak,foot
+715,adjective,yerel,local
+716,noun,dün,yesterday
+717,adjective,gibi...,like...
+718,verb,dinlemek,to listen
+719,verb,açmak,to open
+720,adjective,zayıf,slender
+721,noun,sesli mesaj,voice mail
+722,noun,elma,apple
+723,adjective,çeyrek,quarter
+724,noun,nisan,april
+725,noun,sabun,soap
+726,noun,sandalye,chair
+727,noun,sabah,morning
+728,noun,kat,floor
+729,noun,üzüm,grape
+730,verb,bitirmek,to finish
+731,adverb,neyse,anyway
+732,noun,perşembe,thursday
+733,noun,tava,pan
+734,noun,biftek,steak
+735,noun,hafta sonu,weekend
+736,noun,çaydanlık,tea pot
+737,noun,kan,blood
+738,noun,yüz,(one) hundred
+739,adverb,kadar...,as ... as (until)
+740,adverb,hepsi,all of it
+741,noun,çerçeve,frame
+742,noun,hava,weather
+743,noun,çekmece,drawer
+744,noun,tabak,plate
+745,noun,daire,circle
+746,noun,pamuk,cotton
+747,noun,anahtar,key
+748,noun,eldiven,glove
+749,verb,çekmek,to pull
+750,verb,yürümek,to walk
+751,noun,el,hand
+752,noun,kamyon,truck
+753,noun,yol,road
+754,adjective,geç,late
+755,adverb,önce,before
+756,adjective,kirli,dirty
+757,noun,çikolata,chocolate
+758,noun,çarşaf,sheet
+759,noun,salı,tuesday
+760,noun,çimen,grass
+761,adjective,dışarı,out
+762,noun,avukat,lawyer
+763,adjective,temiz,clean
+764,noun,yetmiş,seventy
+765,adjective,soğuk,cold
+766,adjective,soğu,cool
+767,noun,domuz,pig (pork)
+768,adjective,yükseklik,height
+769,verb,tırmanmak,to climb
+770,verb,vurmak,to hit
+771,verb,tamir etmek,to fix
+772,noun,tatil,holiday
+773,verb,anlatmak,to tell
+774,adjective,arkadaş,friend
+775,verb,sakinleşmek,to calm
+776,adjective,sonsuza,infinity (endless)
+777,noun,mısır,corn
+778,noun,ağustos,august
+779,noun,karın,belly
+780,adverb,yeter,enough
+781,noun,kırk,forty
+782,adverb,gelecek,next (future)
+783,noun,kağıt havlu,paper towel
+784,verb,yüzmek,to swim
+785,verb,algılamak,to sense
+786,verb,tatmak,to taste
+787,verb,renklendirmek,to color
+789,verb,kullanmak,to use
+790,noun,sonbahar,autumn
+791,adverb,için,for
+792,verb,almak,to get (to buy)
+793,verb,giymek,to wear
+794,adjective,gerçek,real
+795,noun,hakikat,truth (fact)
+796,adjective,plastik,plastic
+797,adjective,sarı,yellow
+798,noun,çanta,bag
+799,noun,rüzgar,wind
+800,adjective,yeni,new
+801,noun,önem,importance
+802,adjective,önemli,important
+803,adjective,önemsiz,unimportant
+804,noun,çarşamba,wednesday
+805,noun,fincan,cup
+806,noun,egzersiz,exercise
+807,verb,nefret etmek,to hate
+808,verb,duş almak,to take a shower
+809,verb,üzülmek,to be sad
+810,noun,dudak,lip
+811,adjective,düşük,low
+812,adjective,gurur,proud
+813,adjective,sıcak,hot
+814,noun,güney,south
+815,verb,çalışmak,to work (to study)
+816,noun,hikaye,story
+817,noun,şarj,charger
+818,noun,yaprak,leaf
+819,verb,özlemek,to miss
+820,verb,pişirmek,to cook
+821,verb,oynamak,to play
+822,verb,ısırmak,to bite
+823,verb,okumak,to read
+824,noun,kamera,camera
+825,verb,uyanmak,to wake up
+826,noun,mama sandalyesi,high chair
+827,noun,bina,building
+828,verb,silmek,to wipe (to erase)
+829,verb,gitmek,to go
+830,verb,öpmek,to kiss
+831,adverb,ileri,forward
+832,noun,şiir,poem
+833,verb,izlemek,to watch
+834,verb,söylemek,to say
+835,verb,üşümek,to be cold
+836,verb,yardım etmek,to help
+837,verb,temizlemek,to clean
+838,noun,ağrı,ache
+839,verb,ağrımak,to ache
+840,noun,şeker,sugar (candy)
+841,verb,kırmak,to break
+842,noun,çamaşır,laundry
+843,verb,acımak,to hurt
+844,verb,satmak,to sell
+845,noun,hafta,week
+846,noun,liste,list
+847,noun,tereyağ,butter
+848,verb,öldürmek,to kill
+849,verb,kavga etmek,to fight
+850,noun,fotoğraf,photograph
+851,verb,dans etmek,to dance
+852,verb,bağırmak,to shout
+853,noun,küp,cube
+854,noun,şaka,joke
+855,adjective,şakacı,joker
+856,noun,sayı,number
+857,noun,perde,cutain
+858,noun,kuzeyinde,north
+859,noun,ıslak medil,wet wipes
+860,noun,fırın,oven
+861,noun,koyun,sheep
+862,noun,böcek,bug
+863,noun,tuvalet,wash closet
+864,noun,kağıt,paper
+865,noun,elli,fifty
+866,noun,turuncu,orange (color)
+867,noun,banka,bank
+868,noun,yumurta,egg
+869,noun,şemsiye,umbrella
+870,noun,yirmi,twenty
+871,verb,öğrenmek,to learn
+872,verb,koklamak,to smell
+873,verb,atlamak,to jump
+874,verb,öğretmek,to teach
+875,adverb,her,every
+876,adjective,ağırlık,weight
+877,verb,beklemek,to wait
+878,verb,denemek,to try
+879,noun,tahta,wood
+880,verb,söz vermek,to promise
+881,adjective,sert,hard
+882,verb,koşmak,to run
+883,verb,uçmak,to fly
+884,adverb,...daha ...,... than... (more)
+885,verb,düşünmek,to think
+886,noun,memeler,boobs
+887,noun,fiş,plug
+888,noun,beyin,brain
+889,noun,kare,square
+890,adverb,zorunda,have to
+891,noun,ceket,jacket
+892,noun,dağ,mountain
+893,verb,görmek,to see
+894,verb,salınmak,to swing
+895,verb,geçmek,to cross (to pass)
+896,noun,resim,picture
+897,verb,bilmek,to know
+898,verb,tanımak,to recognize
+899,verb,oturmak,to sit
+900,verb,sevmek,to love
+901,noun,teknoloji,technology
+902,noun,duş,shower
+903,noun,sırt,back (body)
+904,noun,havuz,pool
+905,adjective,dişçi,dentist
+906,noun,bulaşıklar,dishes
+907,noun,şekil,shape
+908,adverb,hemen,immediately
+909,adjective,pahalı,expensive
+910,noun,pazartesi,monday
+911,verb,gelmek,to come
+912,noun,pilav,cooked rice
+913,noun,milyon,million
+914,noun,ışık,light
+915,noun,kart,card
+916,adverb,herkes,everyone
+917,noun,armut,pear
+918,noun,silindir,cylinder
+919,noun,mavi,blue
+920,noun,peçete,napkin
+921,verb,egzersiz yapmak,to work out
+922,verb,saymak,to count
+923,noun,temmuz,july
+924,noun,omuz,shoulder
+925,adjective,yoğun,busy
+926,adjective,kısa,short
+927,noun,dondurma,ice cream
+928,verb,sipariş vermek,to order
+929,adjective,sıkıcı,boring
+930,adjective,karışık,mixed
+931,noun,cumartesi,saturday
+932,noun,şubat,february
+933,noun,ocak,january
+934,noun,baş,head
+935,noun,puro,cigar
+936,noun,vapur,ferry
+937,adjective,zor,difficult
+938,noun,gömlek,shirt (button down)
+939,adverb,mümkün,possible
+940,noun,hediye,gift
+941,noun,gaz,gas
+942,adjective,geniş,wide
+943,noun,kurabiye,cookie
+944,noun,yılan,snake
+945,noun,koltuk,sofa
+946,adverb,şu anda,at this moment
+947,noun,haber,news
+948,noun,kapı,door
+949,noun,metal,metal
+950,noun,merdiven,stairs
+951,noun,bacak,leg
+952,noun,burun,nose
+953,noun,batısında,west
+954,noun,priz,outlet
+955,noun,cam,glass (material)
+956,noun,önlük,bib
+957,adverb,...lazim,need to...
+958,adverb,...lazım,gotta...
+959,noun,sağ,right
+960,noun,saniye,second
+961,noun,bahar,spring
+962,noun,tavuk,chicken
+963,noun,kablo,cable (wire)
+964,noun,fıstık,peanut
+965,noun,defter,notebook
+966,noun,eylül,september
+967,adverb,sık sık,often
+968,noun,çilek,strawberry
+969,noun,pirinç,uncooked rice
+970,noun,mart,march
+971,noun,koni,cone
+972,noun,ağız,mouth
+973,noun,mayıs,may
+974,adverb,yakında,soon
+975,noun,öğle,noon
+976,noun,mide,stomach
+977,noun,gemi,ship
+978,noun,bardak,glass
+979,noun,kırmızı,red
+980,noun,salata,salad
+981,phrase,ne oldu?,what happened?
+982,verb,büyümek,to grow
+983,adverb,hazır,ready
+984,noun,klozet,toilet
+985,noun,renk,color
+986,adjective,renkli,colorful
+987,adjective,renksiz,colorless
+988,noun,bilim,science
+989,adjective,şoför,driver
+990,adjective,verb,fiil
+991,noun,bin,thousand
+992,noun,ekmek,bread
+993,noun,kol,arm
+994,noun,kendi,self (own)
+995,adjective,küçük,small
+996,adjective,tembel,lazy
+997,noun,çiçek,flower
+998,noun,kasım,november
+999,noun,gökyüzü,sky
+1000,adverb,daima,always
+1001,verb,uzak,far
+1002,phrase,aferin,well done
+1003,noun,gamze,dimple
+1004,adverb,...dilim,slice of...
+1005,noun,sol,left
+1006,noun,fasulye,bean
+1007,phrase,kaç?,how many?
+1008,noun,pul,stamp
+1009,noun,beşik,crib
+1010,noun,şarkı,song
+1011,noun,beyaz,white
+1012,noun,tükenmez kalem,pen
+1013,noun,pencere,window
+1014,adverb,başlangıcı,beginning of
+1015,noun,inek,cow
+1016,verb,değişmek,to change
+1017,noun,bahçe,garden
+1018,noun,yıl,year
+1019,noun,yastık,pillow
+1020,adjective,yumuşak,soft
+1021,noun,yaz,summer
+1022,noun,maydonoz,parsley
+1023,noun,altmış,sixty
+1024,noun,kum,sand
+1025,noun,seksen,eighty
+1026,adverb,genellikle,generally
+1027,verb,dinlenmek,to rest
+1028,noun,ananas,pineapple
+1029,noun,ayı,bear
+1030,noun,etek,skirt
+1031,noun,yeşil,green
+1032,noun,siyah,black
+1033,adverb,asla,never
+1034,noun,tencere,pot
+1035,adjective,yavaş,slow
+1036,noun,ilaç,medicine
+1037,noun,buğday,wheat
+1038,noun,buzdolabı,fridge
+1039,noun,kalp,heart
+1040,noun,gözlük,glasses
+1041,noun,müsaade,permission
+1042,noun,aralık,december
+1043,noun,katı,solid
+1044,noun,dikdörtgen,rectangle
+1045,adverb,diğer,other
+1046,noun,düğme,button
+1047,noun,ekim,october
+1048,noun,biyoloji,biology
+1049,noun,diş fırçası,tooth brush
+1050,noun,maaş,salary (wage)
+1051,noun,ıspanak,spinach
+1052,verb,çizmek,to draw
+1053,noun,pazar,sunday
+1054,noun,meşrubat,soda
+1055,noun,oyuncak,toy
+1056,adjective,kolay,easy
+1057,noun,çarşı,shop (market)
+1058,adjective,satıcı,salesperson
+1059,noun,kış,winter
+1060,noun,tırnak,nail
+1061,noun,marul,lettuce
+1062,noun,havlu,towel
+1063,noun,kar,profit
+1064,noun,timsah,alligator
+1065,noun,pasta,cake
+1066,adverb,son(u),end (of)
+1067,noun,kaban,coat
+1068,noun,harf,letter (abc)
+1069,adverb,hâlâ...,still...
+1070,noun,sıvı,liquid
+1071,adjective,içinde,in
+1072,noun,cuma,friday
+1073,noun,cadde,street
+1074,noun,şeftal,peach
+1075,noun,parmak,finger
+1076,noun,hiç kimse,nobody
+1077,adjective,dar,narrow
+1078,noun,okul,school
+1079,noun,dolap,cabinet
+1080,noun,portakal,orange
+1081,noun,çorap,sock
+1082,noun,makas,scissor
+1083,noun,biber,pepper
+1084,noun,et,meat
+1085,noun,kutu,box
+1086,noun,çöp,garbage
+1087,noun,dükkan,store
+1089,noun,pembe,pink
+1090,verb,terlemek,to sweat
+1091,noun,kiraz,cherry
+1092,noun,ayakkabı,shoe
+1093,noun,kulak,ear
+1094,adjective,yakın,close (near)
+1095,adjective,kötü,bad
+1096,noun,ampül,light bulb
+1097,noun,kelime,word
+1098,adjective,meşgul,busy
+1099,noun,dirsek,elbow
+1100,noun,diz,knee
+1101,verb,saklamak,to hide
+1102,adjective,ucuz,cheap
+1103,noun,köpek,dog
+1104,noun,kere,times (math)
+1105,adjective,yazar,author
+1106,adjective,sevimli,cute
+1107,noun,çakmak,lighter
+1108,noun,şömine,fire place
+1109,noun,dikkat,attention
+1110,adjective,dikkatli,careful
+1111,adjective,dikkatsiz,careless
+1112,adjective,rahat,comfortable
+1113,noun,zeytin,olive
+1114,noun,göz,eye
+1115,noun,reçel,jam
+1116,noun,hayat,life
+1117,adverb,hiç,ever
+1118,noun,kravat,tie
+1119,adjective,büyük,big (older)
+1120,adjective,çiğ,raw
+1121,adjective,düz,straight
+1122,noun,uçak,plane
+1123,noun,öykü,literature (story)
+1124,noun,ağrı,pain (hurt)
+1125,adjective,yüksek,high
+1126,noun,ay,month
+1127,noun,akıl,wisdom
+1128,adjective,akıllı,wise
+1129,adjective,akılsız,foolish
+1130,noun,mum,candle
+1131,noun,kot,jean
+1132,noun,doksan,ninety
+1133,noun,kedi,cat
+1134,noun,halı,rug
+1135,noun,şans,luck
+1136,noun,cilt,skin
+1137,noun,mektup,letter (mail)
+1138,noun,televizyon,television
+1139,verb,ağlamak,to cry
+1140,verb,hasta olmak,to be sick
+1141,verb,sürpriz yapmak,to surprise
+1142,adjective,bekar,single
+1143,verb,konuşmak,to talk
+1144,verb,kızmak,to be angry
+1145,verb,çiğnemek,to chew
+1146,noun,duvar,wall
+1147,verb,kesmek,to cut
+1148,verb,etmek,to perform
+1149,verb,kırılmak,to be broken
+1150,verb,itmek,to push
+1151,noun,matematik,math
+1152,noun,tarih,history
+1153,verb,sarılmak,to hug
+1154,verb,dokunmak,to touch
+1155,verb,ziyâret etmak,to visit
+1156,verb,süpürmek,to sweep
+1157,verb,emeklemek,to crawl
+1158,noun,senaryo,screenplay
+1159,verb,vermek,to give
+1160,adjective,öğretmen,teacher
+1161,noun,masa,table
+1162,verb,olmak,to be
+1163,adverb,maalesef,unfortunately
+1164,verb,sormak,to ask
+1165,verb,pratik yapmak,to practice
+1166,adverb,fazla,much
+1167,verb,boyamak,to paint
+1168,adjective,neşeli,cheerful (joyful)
+1169,adjective,neşesiz,joyless
+1170,noun,diş macunu,tooth paste
+1171,noun,üçgen,triangle
+1172,noun,meyve suyu,juice
+1173,verb,bulmak,to find
+1174,noun,küre,sphere
+1175,adjective,yarım,half
+1176,adjective,buçuk,half of
+1177,adverb,aşağı,down
+1178,noun,göl,lake
+1179,adjective,yalnız,alone (lonely)
+1180,noun,haziran,june
+1181,noun,bot,boot
+1182,adjective,çabuk,quick
+1183,noun,telefon,telephone
+1184,noun,ayna,mirror
+1185,noun,bornoz,bathrobe
+1186,noun,muz,banana
+1187,noun,kir,dirt
+1188,noun,makarna,pasta
+1189,noun,otuz,thirty

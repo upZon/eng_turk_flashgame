@@ -85,12 +85,19 @@ Packets:
     2. Packet 2
     3. Packet 3
     4. Packet 4
+    5. Packet 5
+    6. Packet 6
+    7. Packet 7
+    8. Packet 8
+    9. Packet 9
+    10. Packet 10
 
     m. Main Menu
     q. Quit
 ''')
 
-            self.p_choice = input('Pick a Packet (1, 2, 3, 4): ')
+            self.p_choice = input(
+                'Pick a Packet (1, 2, 3, 4, 5, 6, 7, 8, 9, 10): ')
 
             # ======= VERIFY CHOICE ======= #
 
@@ -105,7 +112,8 @@ Packets:
             # CHECK SELECTION
             else:
                 try:
-                    if int(self.p_choice) not in [1, 2, 3, 4]:
+                    if int(self.p_choice) not in [
+                            1, 2, 3, 4, 5, 6, 7, 8, 9, 10]:
                         print('Not a valid number!')
                         self.packet_picker()
                     else:
@@ -121,7 +129,7 @@ Packets:
     def packet_slicer(self):
         self.big_group = \
             self.data_groups.groups[self.group_type[self.choice]]
-        self.slices = int(len(self.big_group) / 4)
+        self.slices = int(len(self.big_group) / 10)
         self.packet = \
             self.big_group[((self.p_choice - 1) * self.slices):
                            (self.p_choice * self.slices)]
